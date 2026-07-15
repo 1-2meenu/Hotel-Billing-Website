@@ -1,0 +1,17 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fed7aa"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="148" height="148" rx="22" fill="url(#g)" />
+  <rect x="20" y="30" width="120" height="80" rx="18" fill="#fff7ed" stroke="#ea580c" stroke-width="3"/>
+  <circle cx="80" cy="70" r="26" fill="#ffedd5" stroke="#ea580c" stroke-width="3"/>
+  <circle cx="72" cy="66" r="4" fill="#ea580c"/>
+  <circle cx="88" cy="66" r="4" fill="#ea580c"/>
+  <path d="M68 80c4 6 8 9 12 9s8-3 12-9" fill="none" stroke="#ea580c" stroke-width="3" stroke-linecap="round"/>
+  <text x="80" y="132" text-anchor="middle" font-size="14" fill="#7c2d12" font-family="system-ui, -apple-system, sans-serif">
+    Spice Garden
+  </text>
+</svg>

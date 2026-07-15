@@ -1,0 +1,9 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="4" width="152" height="152" rx="24" fill="#eef2ff"/>
+  <rect x="34" y="50" width="92" height="44" rx="16" fill="#f9fafb" stroke="#d4d4d8" stroke-width="3"/>
+  <rect x="38" y="54" width="84" height="36" rx="14" fill="#e5e7eb"/>
+  <rect x="24" y="98" width="112" height="18" rx="9" fill="#94a3b8"/>
+  <text x="80" y="138" text-anchor="middle" font-size="16" fill="#1f2937" font-family="system-ui, -apple-system, sans-serif">
+    Puttu
+  </text>
+</svg>

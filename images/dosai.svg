@@ -1,0 +1,10 @@
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="4" width="152" height="152" rx="24" fill="#ecfdf3"/>
+  <ellipse cx="80" cy="86" rx="54" ry="30" fill="#bbf7d0" stroke="#16a34a" stroke-width="3"/>
+  <path d="M26 86c4-18 26-32 54-32s50 14 54 32" fill="#dcfce7"/>
+  <circle cx="80" cy="84" r="22" fill="#f97316" opacity="0.85"/>
+  <circle cx="80" cy="84" r="6" fill="#22c55e"/>
+  <text x="80" y="138" text-anchor="middle" font-size="16" fill="#166534" font-family="system-ui, -apple-system, sans-serif">
+    Dosai
+  </text>
+</svg>

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "coffee",
+    "name": "Coffee",
+    "price": 20,
+    "category": "Beverages",
+    "imageUrl": "images/coffee.svg",
+    "isAvailable": true
+  },
+  {
+    "id": "dosai",
+    "name": "Dosai",
+    "price": 45,
+    "category": "Breakfast",
+    "imageUrl": "images/dosai.svg",
+    "isAvailable": true
+  },
+  {
+    "id": "vada",
+    "name": "Vada",
+    "price": 15,
+    "category": "Snacks",
+    "imageUrl": "images/vada.svg",
+    "isAvailable": true
+  },
+  {
+    "id": "pazhampori",
+    "name": "Pazhampori",
+    "price": 20,
+    "category": "Snacks",
+    "imageUrl": "images/pazhampori.svg",
+    "isAvailable": true
+  },
+  {
+    "id": "biriyani-mkwt6meq",
+    "name": "biriyani",
+    "price": 80,
+    "category": "Specials",
+    "imageUrl": "images/placeholder.svg",
+    "isAvailable": true
+  },
+  {
+    "id": "fish-mkwth2u3",
+    "name": "fish",
+    "price": 30,
+    "category": "Specials",
+    "imageUrl": "images/placeholder.svg",
+    "isAvailable": true
+  },
+  {
+    "id": "ghee-roast-mkwtkd04",
+    "name": "ghee roast",
+    "price": 60,
+    "category": "Breakfast",
+    "imageUrl": "images/placeholder.svg",
+    "isAvailable": true
+  }
+]

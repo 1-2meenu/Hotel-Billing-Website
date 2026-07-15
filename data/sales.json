@@ -1,0 +1,51 @@
+[
+  {
+    "id": "sale-mkwtg9t4",
+    "items": [
+      {
+        "itemId": "idly",
+        "name": "Idly",
+        "unitPrice": 25,
+        "quantity": 2,
+        "lineTotal": 50
+      },
+      {
+        "itemId": "puttu",
+        "name": "Puttu",
+        "unitPrice": 35,
+        "quantity": 5,
+        "lineTotal": 175
+      }
+    ],
+    "totalAmount": 236.25,
+    "createdAt": "2026-01-27T16:34:02.537Z"
+  },
+  {
+    "id": "sale-mkwtjkun",
+    "items": [
+      {
+        "itemId": "coffee",
+        "name": "Coffee",
+        "unitPrice": 20,
+        "quantity": 4,
+        "lineTotal": 80
+      },
+      {
+        "itemId": "biriyani-mkwt6meq",
+        "name": "biriyani",
+        "unitPrice": 80,
+        "quantity": 1,
+        "lineTotal": 80
+      },
+      {
+        "itemId": "vada",
+        "name": "Vada",
+        "unitPrice": 15,
+        "quantity": 1,
+        "lineTotal": 15
+      }
+    ],
+    "totalAmount": 183.75,
+    "createdAt": "2026-01-27T16:36:36.815Z"
+  }
+]
