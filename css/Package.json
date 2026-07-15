@@ -1,0 +1,27 @@
+{
+  "name": "restaurant-website-crud",
+  "version": "1.0.0",
+  "description": "Multi-page restaurant website with menu CRUD, cart billing, QR pay UI, printing, and monthly sales reports.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "restaurant",
+    "menu",
+    "billing",
+    "reports",
+    "express",
+    "crud"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
